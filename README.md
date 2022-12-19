@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Víctor Velázquez Cid</h1>
-<h3 align="center">A passionate backend developer and architecture security analyist from Dominican Republic</h3>
+<h3 align="center">A passionate backend developer and architecture security analyst from Dominican Republic</h3>
 
 - 🔭 I’m currently working on **NestJS tests, for future projects**
 
