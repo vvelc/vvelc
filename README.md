@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@victorvelazquezcid](https://medium.com/@victorvelazquezcid)
 
-- 💬 Ask me about **ExpressJS, Archiitecture Security**
+- 💬 Ask me about **ExpressJS, Architecture Security**
 
 - 📫 How to reach me **victorvelazquezcid@gmail.com**
 
