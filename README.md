@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NestJS tests, for future projects**
 
-- 🌱 I’m currently learning **Docker, NestJS and HAProxy**
+- 🌱 I’m currently learning **Kubernetes, NestJS and HAProxy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vvelc](https://github.com/vvelc)
 
